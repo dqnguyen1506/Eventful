@@ -1,3 +1,3 @@
-module.exports = {
+smodule.exports = {
   PORT: process.env.PORT || 5000
 };
